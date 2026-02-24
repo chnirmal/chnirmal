@@ -1,10 +1,10 @@
 ### Hi there, I'm Nirmal 👋
 
-I am a B.Tech Computer Science graduate with over 11 years of experience in Retail Banking Operations, having primarily served as a Branch Manager at the State Bank of India (SBI). 
+I am a B.Tech Computer Science graduate with over 11 years of experience in Retail Banking Operations, having primarily served as an Officer at the State Bank of India (SBI). 
 
 I recently transitioned out of the traditional banking sector to pursue my passion for technology and financial operations. 
 
-My distinct advantage is **AI-Augmented Solutions Architecture**. While my career has been deeply rooted in banking compliance, risk management, and branch operations, my CS background allows me to rapidly prototype and deploy complex technical solutions by leveraging modern Large Language Models (LLMs) and tools like Google AI Studio. 
+My distinct advantage is **AI-Augmented Solutions Architecture**. While my career has been deeply rooted in banking compliance, risk management, and branch operations, my CS background allows me to rapidly prototype and deploy complex technical solutions by leveraging modern Large Language Models (LLMs) and tools like AntiGravity, Gemini CLI, and OpenClaw. 
 
 I specialize in identifying operational bottlenecks and orchestrating AI to write the code, configure the infrastructure, and build the integrations needed to solve them.
 
